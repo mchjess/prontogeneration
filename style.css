@@ -1,0 +1,198 @@
+/* Header & Logo */
+
+position: absolute;
+width: 320px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background-color: #D9D9D9;
+
+
+/* Landing Image & Message */
+
+position: absolute;
+width: 320px;
+height: 288px;
+left: 0px;
+top: 138px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 211px;
+height: 193px;
+left: 156px;
+top: 221px;
+
+background: #E8D256;
+
+
+/* Footer */
+
+position: absolute;
+width: 320px;
+height: 145px;
+left: 0px;
+top: 423px;
+
+background: #D9D9D9;
+
+
+/* PRONTO */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 134px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* GENERATION */
+
+position: absolute;
+width: 338px;
+height: 96px;
+left: 0px;
+top: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+
+
+/* Website Design Copywriting Content Generation */
+
+position: absolute;
+width: 203px;
+height: 74px;
+left: 13px;
+top: 156px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Get in touch Read some examples Review our designs */
+
+position: absolute;
+width: 203px;
+height: 80px;
+left: 105px;
+top: 275px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 87px;
+height: 84px;
+left: 218px;
+top: 129px;
+
+background: #DB222A;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 24px;
+height: 20px;
+left: 250px;
+top: 223px;
+
+background: #A31621;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 55px;
+height: 51px;
+left: 188.31px;
+top: 82px;
+
+background: #1F7A8C;
+transform: rotate(22.24deg);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 108px;
+height: 0px;
+left: 255px;
+top: 91px;
+
+border: 11px solid #053C5E;
+transform: rotate(89.46deg);
+
+
+/* PRONTO GENERATION 2024 (c) */
+
+position: absolute;
+width: 268px;
+height: 21px;
+left: 64px;
+top: 547px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Pronto Generation is a collection of artists and professional marketers who specialise in web development and content generation. Got a website? We can optimise it. Need a website? We can build it. Simple. Elegant. Effective. Affordable. */
+
+position: absolute;
+width: 262px;
+height: 115px;
+left: 18px;
+top: 381px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
